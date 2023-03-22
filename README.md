@@ -3,7 +3,7 @@
 
 ### 선형 대수학 (Linear Algebra)
 
-- [ ] [벡터, 행렬, 텐서]( )
+- [ ] [벡터, 행렬, 텐서](https://github.com/greyfolk99/math-study-note/tree/main/Linear%20Alegbra/Vector%2C%20Matrix%2C%20Tensor)
 - [ ] [행렬 곱셈, 전치, 역행렬, 행렬식]( )
 - [ ] [고유값, 고유벡터]( )
 - [ ] [특이값 분해 (SVD)]( )
